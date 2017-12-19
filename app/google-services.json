@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "418617809484",
+    "firebase_url": "https://nuke-76c72.firebaseio.com",
+    "project_id": "nuke-76c72",
+    "storage_bucket": "nuke-76c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418617809484:android:1ba8c8daffc6226b",
+        "android_client_info": {
+          "package_name": "com.optimus.nuke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418617809484-37nc8t0vcmmpmqapugstc2k58q3f74gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optimus.nuke",
+            "certificate_hash": "2539eb2b5ee42be65131411ca009b75e3bac25ce"
+          }
+        },
+        {
+          "client_id": "418617809484-jjeoj2gt56v0lejqpca9g0u1jqdu8tfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKzCApIzbv0tRMzfgLMV4ZDZUpAwCdFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418617809484-jjeoj2gt56v0lejqpca9g0u1jqdu8tfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
